@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/investiflex.iml" filepath="$PROJECT_DIR$/.idea/investiflex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarsTraveler.iml" filepath="$PROJECT_DIR$/.idea/MarsTraveler.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Welcome to the Investiflex website repo
+# Welcome to the Multi-Stage Mars Visit Application Form project!
+This is a simple React/Next.js project that demonstrates the possible future when mars travel become real.
+## Introduction
+Are you ready to be a part of history and journey to the Red Planet? We're excited to introduce you to our Multi-Stage Mars Visit Application Form – the gateway to your extraordinary adventure on Mars.
+
+## About the Project
+This project is a web-based application form that facilitates the application process for those interested in visiting and exploring Mars. Whether you're an aspiring astronaut, a space enthusiast, or simply curious about the Red Planet, our application form is your first step in the journey towards interplanetary exploration.
+
+## What to Expect
+- **User-Friendly**: Our application form is designed with user experience in mind. It's easy to navigate, ensuring a smooth and intuitive application process.
+- **Multi-Stage**: The journey to Mars is no small feat. We've divided the application into multiple stages to provide a comprehensive and well-rounded evaluation of potential travelers.
+- **Safety and Satisfaction**: Your safety and satisfaction are our top priorities. We've incorporated rigorous screening and assessments to ensure that you have the best experience during your stay on Mars.
+- **Join the Future**: Mars awaits, and we want you to be a part of the future of space exploration. This project aims to bring us one step closer to realizing our dream of making Mars accessible to humanity.
+
 ## Getting Started
 
 First, run the development server:
@@ -20,18 +33,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
