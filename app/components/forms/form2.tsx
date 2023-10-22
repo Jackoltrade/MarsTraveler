@@ -6,6 +6,7 @@ interface Props {
 }
 
 const Form2 = (props:Props) => {
+    // @ts-ignore
     const storedData = JSON.parse( sessionStorage.getItem('form2Data'));
 
     const [form2Data, setform2Data] = useState({

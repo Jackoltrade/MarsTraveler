@@ -67,7 +67,7 @@ const Form3 = (props:Props) => {
                             <h2 className="text-xl font-semibold leading-7 text-gray-900">Medical Conditions (if applicable)</h2>
                             <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
                                 <div className="col-span-full">
-                                    <LargeTextInput label="Medical Conditions"></LargeTextInput>
+                                    <LargeTextInput label="Medical Conditions" content="Tell us your medical conditions here" handleInputChange={() => console.log("input changed")}></LargeTextInput>
                                     <p className="mt-3 text-sm leading-6 text-gray-600">Do you have any medical conditions, or is there anything health-related we should be aware of before your journey?</p>
                                 </div>
                             </div>

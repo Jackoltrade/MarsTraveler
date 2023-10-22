@@ -5,6 +5,7 @@ interface Props {
 }
 
 const Form1 = (props:Props) => {
+    // @ts-ignore
     const storedData = JSON.parse( sessionStorage.getItem('form1Data'));
 
     const [form1Data, setform1Data] = useState({
@@ -122,7 +123,7 @@ const Form1 = (props:Props) => {
                                     >
                                         <option>Limsa Lominsa</option>
                                         <option>Gridania</option>
-                                        <option>Ul'dah</option>
+                                        <option>Ul&apos;dah</option>
                                         <option>Ishgard</option>
                                         <option>Ala Mhigo</option>
                                         <option>Sharlayan</option>

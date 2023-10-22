@@ -19,7 +19,7 @@ const PageContent = () => {
                     <p className="text-5xl font-black text-center">Welcome, Stella Traveler</p>
                     <p className="text-2xl text-center">to the next frontier in human exploration – our Multi-Stage Mars Visit Application Form! </p>
                     <br/>
-                    <p className="text-lg text-center invisible md:visible">We are thrilled to embark on this incredible journey with you as we set our sights on the Red Planet. Our comprehensive application process is designed to ensure your safety and satisfaction while exploring the wonders of Mars. So, fasten your seatbelt, prepare for lift-off, and let's make history together. Your adventure to Mars begins here!</p>
+                    <p className="text-lg text-center invisible md:visible">We are thrilled to embark on this incredible journey with you as we set our sights on the Red Planet. Our comprehensive application process is designed to ensure your safety and satisfaction while exploring the wonders of Mars. So, fasten your seatbelt, prepare for lift-off, and let&apos;s make history together. Your adventure to Mars begins here!</p>
                 </div>
                 <div className="divider"></div>
                 <div className="grid h-auto place-items-center">

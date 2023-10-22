@@ -64,7 +64,7 @@ const EmergenceContact = () => {
                     >
                         <option>Limsa Lominsa</option>
                         <option>Gridania</option>
-                        <option>Ul'dah</option>
+                        <option>Ul&apos;dah</option>
                         <option>Ishgard</option>
                         <option>Ala Mhigo</option>
                         <option>Sharlayan</option>

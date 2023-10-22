@@ -39,11 +39,14 @@ const FormContainer = (props: Props) =>  {
     }, [props.activeButton]);
 
     useEffect(() => {
-        if (isForm1Valid || isForm2Valid) document.getElementById('save').showModal();
+        if (isForm1Valid || isForm2Valid) { // @ts-ignore
+            document.getElementById('save').showModal();
+        }
     }, [isForm1Valid, isForm2Valid]);
     
     useEffect(() => {
         if (isForm3Valid && isForm2Valid && isForm1Valid) {
+            // @ts-ignore
             document.getElementById('submit').showModal();
         }
     }, [isForm1Valid, isForm2Valid, isForm3Valid]);
